@@ -6,9 +6,9 @@ spec:
   selector:
     matchLabels:
       app: myapp
-  replicas: 2
+  replicas: 4
   template:
-    metadata:
+    metadata:s
       labels:
         app: myapp
     spec:
