@@ -8,7 +8,7 @@ spec:
       app: myapp
   replicas: 4
   template:
-    metadata:s
+    metadata:
       labels:
         app: myapp
     spec:
