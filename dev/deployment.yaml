@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: manishkumar10/fullstack:feature
         ports:
-        - containerPort: 8080
+        - containerPort: 3000
