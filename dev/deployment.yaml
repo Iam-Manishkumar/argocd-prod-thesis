@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: manishkumar10/fullstack:feature
+        image: gitlab-registry.collaborationlayer-traton.com/ats-project/ats-user-group/scania-thesis-students-ats/manish-master-thesis/fullstack-multiplayer:latest
         ports:
         - containerPort: 3000
